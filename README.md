@@ -3,6 +3,8 @@ Testes
 
 Teste 2
 
+Teste 3
+
 -----
 
 Testes A
