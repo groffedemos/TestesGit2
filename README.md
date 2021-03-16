@@ -8,3 +8,5 @@ Teste 2
 Testes A
 
 Testes B
+
+Testes C
